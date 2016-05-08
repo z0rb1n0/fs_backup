@@ -1,2 +1,3 @@
 # fs_backup
-Simple rsync-based backup script with deduplicated history
+Every entry in the configuration file is documented
+
